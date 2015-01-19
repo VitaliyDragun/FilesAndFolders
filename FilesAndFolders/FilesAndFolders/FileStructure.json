@@ -1,0 +1,85 @@
+{
+    "type" : "folder",
+    "name" : "Root Folder",
+    "files" : 
+  [
+    {
+      "type" : "folder",
+      "name" : "Folder1",
+      "files" : 
+      [
+        {
+          "type" : "folder",
+          "name" : "InnerFolder1",
+          "files" : 
+          [
+            {
+              "type" : "folder",
+              "name" : "SuperInnerFolder1",
+              "files" : 
+              [
+                {
+                  "type" : "text",
+                  "name" : "Charlie Hebdo",
+                  "content" : "After 10 of its staffers were tragically slain during a targeted terrorist assault last week, Charlie Hebdo is trying to get its latest issue in front of anyone who wishes to see it. Physical copies sold out in minutes in France — and millions were printed. More are coming, but to help meet demand and an overwhelming show of support from the public, Charlie Hebdo is also making the defiant issue available via mobile apps on iOS, Android, and Windows Phone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type" : "text",
+          "name" : "Warmest Year",
+          "content" : "The year 2014 was the warmest in modern record, according to two independent analyses by scientists at NASA and the National Ocean Atmospheric Administration. And, with the exception of 1998, the 10 warmest years in modern record occurred in the 21st century. These results, NASA says, are part of a long-term warming trend that is largely driven by an increase in carbon dioxide emissions, as well as other human emissions, into the atmosphere."
+        },
+        {
+          "type" : "image",
+          "name" : "sparrow.jpg"
+        }
+      ]
+    },
+    {
+      "type" : "folder",
+      "name" : "Folder2",
+      "files" : 
+      [
+        {
+          "type" : "text",
+          "name" : "XFiles",
+          "content" : "Deadline reports that Fox is trying to put all the pieces in place for a revival of The X-Files, the long-running sci-fi series (and occasional rom-com) following the adventures of Fox Mulder and Dr. Dana Scully. The biggest challenge, apparently, is not interest from all the key parties — Mulder's David Duchovny, Scully's Gillian Anderson, and series creator Chris Carter would participate — but rather scheduling problems: everyone is wrapped up in other projects, and Duchovny and Anderson are both presently starring in shows on other networks."
+        },
+        {
+          "type" : "folder",
+          "name" : "InnerFolder2",
+          "files" : 
+          [
+            {
+              "type" : "folder",
+              "name" : "SuperInnerFolder2",
+              "files" : 
+              [
+                {
+                  "type" : "image",
+                  "name" : "Himalayas.jpg"
+                },
+                {
+                  "type" : "image",
+                  "name" : "hawk.jpg"
+                }
+              ]
+            }
+          ]
+        }  
+      ]
+    },
+    {
+      "type" : "text",
+      "name" : "Elon Musk SpaceX",
+      "content" : "Elon Musk's plan for satellite internet is even more ambitious than originally thought. At a SpaceX event in Seattle on Friday, the Tesla CEO told Bloomberg Businessweek that his unnamed Space Internet venture could one day stretch all the way to Mars — and it could cost $10 billion to pull off."
+    },
+    {
+      "type" : "image",
+      "name" : "backstage.jpg"
+    }
+  ]
+}
